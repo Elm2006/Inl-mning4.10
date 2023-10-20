@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Inlämning_4.__10
+namespace Inlämning_4.__9
 {
     class Program
     {
